@@ -2,7 +2,7 @@
 ```
 conda create --name main-ds python=3.12
 conda activate main-ds
-pip install numpy pandas matplotlib seaborn jupyter streamlit scikit-learn
+pip install -r requirements.txt
 ```
 
 ## Run steamlit app
